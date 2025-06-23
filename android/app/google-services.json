@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1072286631212",
+    "project_id": "dalilyapp-5f5d3",
+    "storage_bucket": "dalilyapp-5f5d3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072286631212:android:a7625b432fde25fa721889",
+        "android_client_info": {
+          "package_name": "com.example.dalily"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZnFOxBQXGByCdRk1_tn9KowdCfvAch2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

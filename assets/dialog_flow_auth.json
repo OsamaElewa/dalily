@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "dalilybot-hf9g",
+  "private_key_id": "afb385df4df40358b8d2b67f6b6e817d6bdf5d2c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDq2xLjzeGcUxPT\nbaxBfSquqMO7rsO6ZyJvXMaCr7xr/glvAX/pB27G8sC2nCyOynujH6pvbcZQikLj\nKhkrmSlRbr4p5iIWMs7a0Dx1RnsEINW3CYG5lSqhp3m2GEwmXdMOE2nzG0+6gImF\nIbTsl+agdsGm1ifpSrJmuVIgzT8+phyA/AlsN5NvqUFfD6ny7PMBYzSvpy6XA3gE\nBOb/kLMzuqh4nytYMhfFlsRYvWIEc/xMdEEWrywCaC4BpRs9K3Q5/qjjKpd77QQ7\nxzgfI5A4qMnydGDhXUr0/dgQkQqlY/h1rRjiZ3FTRKtJZeUoJ93xBKbalSACcDqw\nh9zRyqrFAgMBAAECggEAFIryFYwKKnbX2pwSv623oIxxhoasZy8jQ3Nth7vgct/H\nKncKnbMBPRS5x59UhG7wrp2T9mg3Ow9E94LUrcwZYZ6asqaHH8L09g3V4/o0w3Et\n0HNb7gQ+tOIl0shATPDTB72p/FJMwIcCwGro3PMSgMGygank1tKqVTLrnKPnXs7U\n8jEuZ7DyVNRwmcX+r9qygKikRv4nBEXONDcXHHVaYF+kbB03AyMX6EIVxT3eHD8l\nTJGWoJOh+rkuXk4Wl9EAlt0LFuoi3OOP9zeJ/eEFuKgtZ5jNj09Q3JDt42697Fns\nBt+WKTzlDdbT0UNROd1wNW4FdF/3jkohy1i0NffydwKBgQD67WpqgH6/KsE1fr8Q\nRifQrb5HhVA7ktW++Jy9W6WbihRXSZrxzwrogZKxdF1jhXNdHukz3+ANv4Gvxu2o\nHxpAsVPItdQoyMkPKsP5lW5gz22OvVAuOf5jDlZqkwCANvk2wU+/zpPwOTa5vhVk\nHpUSxikrOzoK6UBagxlxVyLsuwKBgQDvmnwuRw2zNczO7mwiLYA71SrV02Ty8+Lx\n02pWGEaDlxI90ChTJ02tc9g3/O42iU6R1ohiv5styUpX76Bu5syRE0dnImij7jnS\n3lktulyUdpxhmdXLWwi1fN6PQgH//QnEA3h513gIStkmtIFQu2SR1TdN4Bcu/QWg\nNNJ+vb8OfwKBgDpOCDgO+2R4DsTbWpHxezbl6By+QVJWYAwrwF/Pd7+YafmORM6D\nCUnVMbzCCSEi1ReCIzXGg00ufnfVhUtXTsZRbeJpPY7seKtpiHfp3Ofpys8r9gGH\nwDBMGJBS7/7axzWN3XX4Di/3W1v1awsEgCcInHBLJsV6RVXCuJq5YIgZAoGAbVRA\ndZ1WUv+phIKmNLIuYR7TfN4IohNG6rFdRAuvoTu9xxbET60PdKX3cxSmXZwpjcIm\nWWi0lh/THGzq96+4iDoTyquYs7RwDhgG+SagN94nXSGkvDW9s5JWu2eTIguD+Tzc\nLDx1ONNuYoratsvLCAASTCaEbZxmhMOViN9r3mECgYEApSgBY9IOk3YBM2n12sM/\nIc8Dk+x9eQ0IDdbqij/Anujkqc1/ZMF7pdXGOs/x4XIr84ZDDqb1q6Su7ueuN9By\ndfmqzjfy1DpznlvMrZWyjh3dPIdKC3vVs2ahRWqSOdUq5EuiiljGO61k9xgU+VbW\nUkd2zxF+SfShuJX2o4aSyFI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dalilybot@dalilybot-hf9g.iam.gserviceaccount.com",
+  "client_id": "110261439898550426179",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dalilybot%40dalilybot-hf9g.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
